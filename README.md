@@ -9,3 +9,4 @@ We add a script for chatbot to answer the client's questions
 
 # Task 4.
 I created login page that ask for SSID & PASSWORD then, the PHP script validate this inputs by compare it with the real data to connect to the access point successfully, when the connect sucess it will redirect the user to the control-panel page.
+![Screenshot (563)](https://user-images.githubusercontent.com/81419024/128616534-34b3d229-2595-458d-8ba1-6e8be11a0aa4.png)
